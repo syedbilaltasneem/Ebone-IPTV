@@ -1,0 +1,182 @@
+#EXTM3U
+#EXTINF:0,QTV
+http://webtv.emasti.pk/stream/qtv/playlist.m3u8
+#EXTINF:0,Al-Quran
+http://webtv.emasti.pk/stream/alquran/playlist.m3u8
+#EXTINF:0,Al-Sunah
+http://webtv.emasti.pk/stream/alsunah/playlist.m3u8
+#EXTINF:0,Madni Channel
+http://webtv.emasti.pk/stream/madanichannel/playlist.m3u8
+#EXTINF:0,AAJ News
+http://webtv.emasti.pk/live/aajnews/playlist.m3u8
+#EXTINF:0,ARY News
+http://webtv.emasti.pk/live/arynews/playlist.m3u8
+#EXTINF:0,Geo News
+http://webtv.emasti.pk/live/geonews/playlist.m3u8
+#EXTINF:0,Geo Tazz
+http://webtv.emasti.pk/live/geotazz/playlist.m3u8
+#EXTINF:0,Al-Jazeera
+http://webtv.emasti.pk/stream/aljaz/playlist.m3u8
+#EXTINF:0,92 News HD
+http://webtv.emasti.pk/stream/92newshd/playlist.m3u8
+#EXTINF:0,Abb Tak News
+http://webtv.emasti.pk/stream/abbtaknews/playlist.m3u8
+#EXTINF:0,Bol News
+http://webtv.emasti.pk/stream/bolnews/playlist.m3u8
+#EXTINF:0,CGTN
+http://webtv.emasti.pk/live/cgtn/playlist.m3u8
+#EXTINF:0,Dawn News
+http://webtv.emasti.pk/stream/dawnnews/playlist.m3u8
+#EXTINF:0,Express News
+http://webtv.emasti.pk/stream/expressnews/playlist.m3u8
+#EXTINF:0,GNN
+http://webtv.emasti.pk/stream/gnn/playlist.m3u8
+#EXTINF:0,Hum News
+http://webtv.emasti.pk/stream/humnews/playlist.m3u8
+#EXTINF:0,Public TV
+http://webtv.emasti.pk/stream/publictv/playlist.m3u8
+#EXTINF:0,PTV News
+http://webtv.emasti.pk/stream/ptvnews/playlist.m3u8
+#EXTINF:0,Mashriq TV
+http://webtv.emasti.pk/stream/mashriqtv/playlist.m3u8
+#EXTINF:0,ARY Zindagi
+http://webtv.emasti.pk/stream/AryZindagi/playlist.m3u8
+#EXTINF:0,ARY Digital
+http://webtv.emasti.pk/live/AryDigital/playlist.m3u8
+#EXTINF:0,Geo Kahani
+http://webtv.emasti.pk/stream/geokahani/playlist.m3u8
+#EXTINF:0,Geo Entertainment
+http://webtv.emasti.pk/stream/geoent/playlist.m3u8
+#EXTINF:0,Ajj Entertainment
+http://webtv.emasti.pk/live/aajent/playlist.m3u8
+#EXTINF:0,APlus
+http://webtv.emasti.pk/stream/aplus/playlist.m3u8
+#EXTINF:0,ATV
+http://webtv.emasti.pk/stream/atv/playlist.m3u8
+#EXTINF:0,Khyber TV
+http://webtv.emasti.pk/stream/khybertv/playlist.m3u8
+#EXTINF:0,BOL Entertainment
+http://webtv.emasti.pk/stream/bolent/playlist.m3u8
+#EXTINF:0,Express Entertainment
+http://webtv.emasti.pk/stream/expressent/playlist.m3u8
+#EXTINF:0,Hum Sitaray
+http://webtv.emasti.pk/stream/humsitaray/playlist.m3u8
+#EXTINF:0,Hum TV
+http://webtv.emasti.pk/live/115520/playlist.m3u8
+#EXTINF:0,PTV Home
+http://webtv.emasti.pk/stream/ptvhome/playlist.m3u8
+#EXTINF:0,PTV Global
+http://webtv.emasti.pk/stream/ptvglobal/playlist.m3u8
+#EXTINF:0,Musik
+http://webtv.emasti.pk/live/musik/playlist.m3u8
+#EXTINF:0,24B
+http://webtv.emasti.pk/stream/24b/playlist.m3u8
+#EXTINF:0,8XM
+http://webtv.emasti.pk/stream/8xm/playlist.m3u8
+#EXTINF:0,Media Hub 4
+http://webtv.emasti.pk/stream/mediahub4/playlist.m3u8
+#EXTINF:0,Mifa
+http://webtv.emasti.pk/stream/mifa/playlist.m3u8
+#EXTINF:0,Play TV
+http://webtv.emasti.pk/stream/playtv/playlist.m3u8
+#EXTINF:0,Geo Super
+http://webtv.emasti.pk/stream/geosuper/playlist.m3u8
+#EXTINF:0,PTV Sports
+http://webtv.emasti.pk/stream/ptvsports/playlist.m3u8
+#EXTINF:0,Ten Sports
+http://webtv.emasti.pk/stream/tensports/playlist.m3u8
+#EXTINF:0,Bein1
+http://webtv.emasti.pk/stream/bein1/playlist.m3u8
+#EXTINF:0,Bein2
+http://webtv.emasti.pk/stream/bein2/playlist.m3u8
+#EXTINF:0,Bein3
+http://webtv.emasti.pk/stream/bein3/playlist.m3u8
+#EXTINF:0,Media Hub 1
+http://webtv.emasti.pk/stream/mediahub1/playlist.m3u8
+#EXTINF:0,Media Hub 2
+http://webtv.emasti.pk/stream/mediahub2/playlist.m3u8
+#EXTINF:0,OSN Mdis
+http://webtv.emasti.pk/stream/osnmdis/playlist.m3u8
+#EXTINF:0,OSN Movies
+http://webtv.emasti.pk/stream/osnmovies/playlist.m3u8
+#EXTINF:0,OSN Action
+http://webtv.emasti.pk/stream/osnmact/playlist.m3u8
+#EXTINF:0,Movies
+http://webtv.emasti.pk/stream/movies/playlist.m3u8
+#EXTINF:0,MBC5
+http://webtv.emasti.pk/stream/mbc5/playlist.m3u8
+#EXTINF:0,Cartoon Network
+http://webtv.emasti.pk/stream/cartoonnetwork/playlist.m3u8
+#EXTINF:0,Cine Kids
+http://webtv.emasti.pk/stream/cinekids/playlist.m3u8
+#EXTINF:0,Kids
+http://webtv.emasti.pk/stream/diskids/playlist.m3u8
+#EXTINF:0,POP
+http://webtv.emasti.pk/stream/pop/playlist.m3u8
+#EXTINF:0,OSN Kids
+http://webtv.emasti.pk/stream/osnmkids/playlist.m3u8
+#EXTINF:0,Nick
+http://webtv.emasti.pk/stream/nick/playlist.m3u8
+#EXTINF:0,MBC2
+http://webtv.emasti.pk/stream/mbc2/playlist.m3u8
+#EXTINF:0,Disney
+http://webtv.emasti.pk/stream/disney/playlist.m3u8
+#EXTINF:0,WWE
+http://webtv.emasti.pk/live/wwe/playlist.m3u8
+#EXTINF:0,TRT World
+http://webtv.emasti.pk/stream/trtworld/playlist.m3u8
+#EXTINF:0,NGC
+http://webtv.emasti.pk/stream/ngc/playlist.m3u8
+#EXTINF:0,Mini KA 2
+http://webtv.emasti.pk/stream/minika2/playlist.m3u8
+#EXTINF:0,Mini Kal
+http://webtv.emasti.pk/stream/minika1/playlist.m3u8
+#EXTINF:0,Mifa
+http://webtv.emasti.pk/stream/mifa/playlist.m3u8
+#EXTINF:0,MB Cartoon
+http://webtv.emasti.pk/stream/mbccartoon/playlist.m3u8
+#EXTINF:0,Masala TV
+http://webtv.emasti.pk/live/masalatv/playlist.m3u8
+#EXTINF:0,KTN News
+http://webtv.emasti.pk/ktn/ktnnews/playlist.m3u8
+#EXTINF:0,Kid Zone
+http://webtv.emasti.pk/stream/kidzone/playlist.m3u8
+#EXTINF:0,Filmazia
+http://webtv.emasti.pk/stream/filmazia/playlist.m3u8
+#EXTINF:0,Jalwa
+http://webtv.emasti.pk/stream/jalwa/playlist.m3u8
+#EXTINF:0,France 24
+http://webtv.emasti.pk/stream/france24/playlist.m3u8
+#EXTINF:0,Fox Life
+http://webtv.emasti.pk/stream/foxlife/playlist.m3u8
+#EXTINF:0,Film World
+http://webtv.emasti.pk/stream/filmworld/playlist.m3u8
+#EXTINF:0,Film Max
+http://webtv.emasti.pk/stream/filmax/playlist.m3u8
+#EXTINF:0,Dunya News
+http://webtv.emasti.pk/live/dunyanews/playlist.m3u8
+#EXTINF:0, Ad Sports 1
+http://webtv.emasti.pk/stream/adsport1/playlist.m3u8
+#EXTINF:0,Ad Sports2
+http://webtv.emasti.pk/stream/adsport2/playlist.m3u8
+#EXTINF:0,Aruj
+http://webtv.emasti.pk/stream/aruj/playlist.m3u8
+#EXTINF:0,NEO News
+http://webtv.emasti.pk/stream/neonews/playlist.m3u8
+#EXTINF:0,News1
+http://webtv.emasti.pk/stream/news1/playlist.m3u8
+#EXTINF:0,OSN Kids
+http://webtv.emasti.pk/stream/osnmkids/playlist.m3u8
+#EXTINF:0,PTV Bolan
+http://webtv.emasti.pk/stream/ptvbolan/playlist.m3u8
+#EXTINF:0,Ravi
+http://webtv.emasti.pk/live/ravi/playlist.m3u8
+#EXTINF:0,RT News
+http://webtv.emasti.pk/stream/russiatoday/playlist.m3u8
+#EXTINF:0,Samaa TV
+http://webtv.emasti.pk/stream/samaatv/playlist.m3u8
+#EXTINF:0, Sindh TV
+http://webtv.emasti.pk/live/sindhtv/playlist.m3u8
+#EXTINF:0, WASEB
+http://webtv.emasti.pk/stream/waseb/playlist.m3u8
+#EXTINF:0,
